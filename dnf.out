@@ -1,0 +1,8 @@
+ID     | Command line                                                                                              | Date and time    | Action(s)      | Altered
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+     6 | install -y policycoreutils-python-utils                                                                   | 2026-10-10 18:23 | Install        |    8   
+     5 | install -y /tmp/tcpdump-4.99.5-1.red80.i686.rpm /tmp/tcpdump-4.99.5-1.red80.x86_64.rpm                    | 2026-10-10 17:37 | Install        |   12   
+     4 | install -y libcap-ng-utils                                                                                | 2026-10-10 17:28 | Install        |    1   
+     3 | install -y nginx                                                                                          | 2026-10-10 17:27 | Install        |    7   
+     2 | update -y                                                                                                 | 2026-10-10 17:23 | I, O, U        |  150 E<
+     1 |                                                                                                           | 2026-10-09 22:42 | Install        |  660 >E
